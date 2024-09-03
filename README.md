@@ -4,6 +4,7 @@
 
 - [PyTorch＆深層学習プログラミング](https://www.amazon.co.jp/dp/4296110322)
 - [Pythonで儲かるＡＩをつくる](https://www.amazon.co.jp/dp/4296106961)
+- [ゼロから作るDeep Learning](https://www.amazon.co.jp/dp/4873117585)
 
 ## 自然言語処理の参考書籍
 
