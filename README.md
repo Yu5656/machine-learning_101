@@ -28,6 +28,15 @@
 
 - [Prophet](https://facebook.github.io/prophet/docs/quick_start.html)
 
+## アソシエーション分析
+
+- [mlxtend](https://rasbt.github.io/mlxtend/)
+
+## クラウド環境/ベンダー提供のライブラリ
+
+- [Amazon SageMaker](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-python-sdk/pytorch_mnist/mnist.py)
+- [Google GenerativeAI](https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=python&hl=ja#setup_your_api_key)
+
 ## 数学の関連書籍
 
 - [ディープラーニングの数学](https://www.amazon.co.jp/dp/4296102508)
@@ -42,4 +51,3 @@
 
 - [人工知能は人間を超えるか](https://www.amazon.co.jp/dp/4040800206)
 - [「人工知能」って、そんなことまでできるんですか？](https://www.amazon.co.jp/dp/4046009314)
-
