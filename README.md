@@ -7,19 +7,34 @@
 1. [乳がんの例](./sklearn_00.ipynb)
 2. [二値分類](./sklearn_01.ipynb)
 3. [特徴量エンジニアリング](./sklearn_02.ipynb)
-4. [チューニング](./skearn_03.ipynb)
+4. [チューニング](./sklearn_03.ipynb)
 5. ケーススタディ
-    - [二値分類](./skearn_04.ipynb)
-    - [回帰](./skearn_05.ipynb)
-    - [時系列分析](./skearn_06.ipynb)
-    - [アソシエーション分析](./skearn_07.ipynb)
-    - [クラスタリング、次元圧縮](./skearn_08.ipynb)
+    - [二値分類](./sklearn_04.ipynb)
+    - [回帰](./sklearn_05.ipynb)
+    - [時系列分析](./sklearn_06.ipynb)
+    - [アソシエーション分析](./sklearn_07.ipynb)
+    - [クラスタリング、次元圧縮](./sklearn_08.ipynb)
 
 
 ### torch
 
+1. [１次関数へのフィッティング](./torch_00.ipynb)
+2. [３次関数へのフィッティング](./torch_01.ipynb)
+3. [N次関数へのフィッティング](./torch_02.ipynb)
+4. [点群のフィッティング](./torch_03.ipynb)
+5. [単回帰モデル](./torch_04.ipynb)
+6. [二値分類](./torch_05.ipynb)
+7. [多値分類](./torch_06.ipynb)
+8. [MNIST](./torch_07.ipynb)
+9. [処理パタン](./torch_08.ipynb)
+
 
 ### machine learning
+
+1. [SHAP/LIME](./ml_00.ipynb)
+2. [Amazon Sagemaker](./ml_10.ipynb)
+3. [Google GenerativeAI](./ml_11.ipynb)
+4. [自然言語処理](./ml_20.ipynb)
 
 
 ## 技術全般の参考書籍
